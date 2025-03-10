@@ -9,3 +9,4 @@ Features
 ✅ Employee model: ID, Name, Email, Phone Number, Salary
 
 Lightweight and easy to integrate!
+(Had to upload as a rar file because there were errors.)
