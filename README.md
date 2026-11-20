@@ -4,8 +4,11 @@ A simple ASP.NET Core Web API that provides CRUD operations for managing employe
 Features
 
 ✅ Create, Read, Update, and Delete employees
+
 ✅ Search employees by ID
+
 ✅ Uses ASP.NET Core Web API
+
 ✅ Employee model: ID, Name, Email, Phone Number, Salary
 
 Lightweight and easy to integrate!
